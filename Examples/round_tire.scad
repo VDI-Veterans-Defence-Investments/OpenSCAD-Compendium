@@ -1,0 +1,13 @@
+$fa = 1;
+$fs = 0.4;
+$fn = 50;
+wheel_radius = 12;
+tyre_diameter = 6;
+module round_tire( wheel_radius = 12, tyre_diameter = 6 )
+color("grey")rotate_extrude(angle=360) {
+    translate([wheel_radius - tyre_diameter/2, 0])
+        circle(d=tyre_diameter);
+}
+// DEBUG
+round_tire( wheel_radius, tyre_diameter );
+// DEBUG

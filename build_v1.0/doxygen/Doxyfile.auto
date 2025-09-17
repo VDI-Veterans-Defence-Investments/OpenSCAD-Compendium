@@ -1,0 +1,25 @@
+    PROJECT_NAME=OpenSCAD-Compendium
+    PROJECT_NUMBER=v1.0
+    PROJECT_BRIEF="PM Template (openscad-amu design flow df1/)."
+    PROJECT_LOGO=build_v1.0/scopes/png/design_logo_top_200x50.png
+    EXTENSION_MAPPING=scad=C
+    INPUT=design.scad library.scad
+    FILE_PATTERNS=*.scad
+    INPUT_FILTER="/usr/local/bin/openscad-dif-v3.5 --doxygen-output build_v1.0/doxygen/ --html-output html --lib-path /usr/local/share/openscad-amu/v3.5 --auto-config build_v1.0/scopes/"
+    ENABLED_SECTIONS=
+    EXAMPLE_PATH=build_v1.0/scopes/ 
+    IMAGE_PATH=build_v1.0/scopes/png build_v1.0/scopes/png2eps build_v1.0/scopes/stl 
+    OUTPUT_DIRECTORY=build_v1.0/doxygen/
+    GENERATE_HTML=YES
+    HTML_OUTPUT=html
+    GENERATE_LATEX=NO
+    LATEX_OUTPUT=latex
+    GENERATE_MAN=NO
+    MAN_OUTPUT=man
+    MAN_SUBDIR=man3
+    GENERATE_TAGFILE=build_v1.0/doxygen/doxygen.tags
+    WARN_LOGFILE=build_v1.0/doxygen/doxygen.warnings
+    HTML_HEADER=
+    HTML_FOOTER=
+    HTML_EXTRA_STYLESHEET=
+    LAYOUT_FILE=

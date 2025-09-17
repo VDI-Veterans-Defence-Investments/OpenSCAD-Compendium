@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tagfile doxygen_version="1.9.8">
+  <compound kind="file">
+    <name>design.scad</name>
+    <path></path>
+    <filename>design_8scad.html</filename>
+    <member kind="variable">
+      <type></type>
+      <name>design_int</name>
+      <anchorfile>design_8scad.html</anchorfile>
+      <anchor>acf68b957b6ba4b538b1a11e00c51634a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type></type>
+      <name>design_str</name>
+      <anchorfile>design_8scad.html</anchorfile>
+      <anchor>abd3859b63dc8fba58efbd5c861f20053</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
+    <name>library.scad</name>
+    <path></path>
+    <filename>library_8scad.html</filename>
+  </compound>
+  <compound kind="page">
+    <name>index</name>
+    <title>Main Page</title>
+    <filename>index.html</filename>
+    <docanchor file="index.html" title="Overview">overview</docanchor>
+    <docanchor file="index.html" title="In-line script">inline</docanchor>
+    <docanchor file="index.html" title="Design">design</docanchor>
+    <docanchor file="index.html" title="Library">library</docanchor>
+    <docanchor file="index.html" title="References">references</docanchor>
+  </compound>
+</tagfile>

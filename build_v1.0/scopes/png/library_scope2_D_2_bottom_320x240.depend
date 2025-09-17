@@ -1,0 +1,3 @@
+build_v1.0/scopes/png/library_scope2_D_2_bottom_320x240.png: \
+	/home/dave/OpenSCAD-Compendium/./library.scad \
+	build_v1.0/scopes/library_scope2.scad

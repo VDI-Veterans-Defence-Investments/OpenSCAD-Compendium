@@ -1,0 +1,3 @@
+/home/dave/OpenSCAD-Compendium/design.scad:291: warning: Found documentation for module p2 but it has no primary interface unit.
+/home/dave/OpenSCAD-Compendium/library.scad:80: warning: Found documentation for module p2 but it has no primary interface unit.
+/home/dave/OpenSCAD-Compendium/design.scad:302: warning: Member dm1(p1=design_str, p2=design_int) (function) of file design.scad is not documented.

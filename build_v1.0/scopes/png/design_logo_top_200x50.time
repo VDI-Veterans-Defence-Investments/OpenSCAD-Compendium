@@ -1,0 +1,23 @@
+	Command being timed: "/usr/bin/openscad -m make -d build_v1.0/scopes/png/design_logo_top_200x50.depend --preview --projection=p -D __mfs__logo=true -D design_str="logo" -D __mfs__top=true --camera=650,180,50,0,0,0,1700 -D __mfs__200x50=true --imgsize=200,50 -o build_v1.0/scopes/png/design_logo_top_200x50.png design.scad"
+	User time (seconds): 0.10
+	System time (seconds): 0.04
+	Percent of CPU this job got: 73%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 113512
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 8234
+	Voluntary context switches: 201
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 24
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
