@@ -1,0 +1,50 @@
+##############################################################################
+#
+# Doxyfile
+#
+##############################################################################
+
+OUTPUT_LANGUAGE        = English
+
+OPTIMIZE_OUTPUT_FOR_C  = YES
+
+STRIP_FROM_PATH        = .
+STRIP_FROM_INC_PATH    = .
+
+RECURSIVE              = NO
+EXAMPLE_RECURSIVE      = NO
+
+EXTRACT_PRIVATE        = YES
+INTERNAL_DOCS          = YES
+
+SORT_MEMBER_DOCS       = YES
+SORT_BRIEF_DOCS        = YES
+SORT_GROUP_NAMES       = YES
+
+GENERATE_TODOLIST      = YES
+GENERATE_TESTLIST      = YES
+GENERATE_BUGLIST       = YES
+GENERATE_DEPRECATEDLIST= YES
+
+HTML_COLORSTYLE_HUE    =
+HTML_COLORSTYLE_SAT    =
+HTML_COLORSTYLE_GAMMA  =
+HTML_TIMESTAMP         = YES
+HTML_DYNAMIC_SECTIONS  = NO
+DISABLE_INDEX          = NO
+GENERATE_TREEVIEW      = YES
+SOURCE_BROWSER         = YES
+STRIP_CODE_COMMENTS    = NO
+
+COMPACT_LATEX          = YES
+LATEX_SOURCE_CODE      = NO
+PAPER_TYPE             = letter
+
+MAN_EXTENSION          = .3
+
+#HAVE_DOT               = YES
+#GENERATE_LEGEND        = YES
+
+##############################################################################
+# eof
+##############################################################################
